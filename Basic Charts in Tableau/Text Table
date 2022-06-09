@@ -1,5 +1,9 @@
-Highlights of the Chart
-Text Table that displays profit as a function of Product Sub-Category and Year. 
-Represent the data as Percentage of each cell with respect to the entire table. 
-Display the grand Totals for Rows and Columns.
-Interpretations of the data.
+Highlights of this Repository:
+
+Text table: Text Table that displays profit as a function of Product Sub-Category and Year. 
+            Represent the data as Percentage of each cell with respect to the entire table. 
+            Display the grand Totals for Rows and Columns. Interpretations of the data.
+
+
+Highlight Table: Create a Highlight Table the displays the Sales, Profit, Discount and Quantity for all the Sub-Categories. 
+                  Highlight the data based on the respective Measure Value. Use different colours for different measures to help understand the data easily.
