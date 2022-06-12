@@ -1,0 +1,6 @@
+Example 1: Create a Pie Chart showing the Profits of Superstore for different Regions. Compare the pies across different Categories.
+          Which Category has the highest Profit? Further, in the Category with highest profit, identify the region with highest profit.
+          
+This Repository contains following files :
+1. Summary of the repository
+2. Tableau Workbook Pie Charts_Example 1.twbx
