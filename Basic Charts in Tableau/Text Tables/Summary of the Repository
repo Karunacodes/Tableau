@@ -1,0 +1,14 @@
+Highlights of this Repository:
+
+Text table: Text Table that displays profit as a function of Product Sub-Category and Year. 
+            Represent the data as Percentage of each cell with respect to the entire table. 
+            Display the grand Totals for Rows and Columns. Interpretations of the data.
+
+
+Highlight Table: Create a Highlight Table the displays the Sales, Profit, Discount and Quantity for all the Sub-Categories. 
+                  Highlight the data based on the respective Measure Value. Use different colours for different measures to help understand the data easily.
+                  
+This Repository contains following files :
+1. Summary of the Repository
+2. Tableau Workbook Text Tables_Example1.twbx
+3. Tableau Workbook Text Tables_Example2.twbx
