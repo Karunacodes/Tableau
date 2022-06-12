@@ -1,0 +1,6 @@
+Example 1 : Create a Hierarchy to Drill Down through the Location data present in Superstore on the view. 
+(Hint: Country -> Region -> State -> City -> Postal Code)
+
+This Repository contains following files :
+1. Summary of the Repository
+2. Tableau Workbook Hierarchy.twbx
