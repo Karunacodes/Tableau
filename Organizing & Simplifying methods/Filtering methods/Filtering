@@ -1,1 +1,8 @@
+Example 1: Create a top five conditional filter that will update the top five Customers by Sales based on the region selected in the “Region” filter.
 
+Example 2: Filters: Create a text table displaying the list of Top 3 cities by profit in each state.
+
+This file contains following files :
+1. Summary of the Repository
+2. Tableau Workbook Filters_Example1.twbx
+3. Tableau Workbook Filters_Example2.twbx
