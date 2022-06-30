@@ -1,0 +1,9 @@
+Clustering :
+
+Example : Create a scatter matrix. Create 3 clusters on each plot in the scatter matrix using the K-Means algorithm.
+
+
+This Repository contains following files:
+1. Clustering.twbx
+2./ Summary of the Repository
+3. Data Source :Iris.csv
