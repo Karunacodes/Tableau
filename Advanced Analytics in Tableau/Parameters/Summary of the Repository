@@ -1,0 +1,24 @@
+Parameters
+
+Example 1 : Create a String Parameter with the 3 different Category Names (Furniture, Office Supplies, Technology). Create a calculated field with Logical If Statement.
+            Show the next level of detail in a hierarchy for just a selected attribute.
+            
+Example 2 : Give the user the option to select which Dimension to be used in the view (represent data at selected dimension level)
+            by creating a Parameter with the list of all the desired “Dimensions”.
+            
+Example 3 : Create a chart to display the Top N and Bottom N profitable Customers of Superstore in a single view.
+
+Example 4 : Create a Parameter to retrieve a ‘Selection’s Average Sales’ value. Display the average on the worksheet title using Parameter Action.
+
+Example 5 : Display the Selection’s Average Sales using a Reference Line.
+
+            
+
+This Repository contains following files :
+1. Summary of the Repository
+2. Parameters-Example 1.twbx
+3. Parameters-Example 2.twbx
+4. Parameters-Example 3.twbx
+5. Parameters-Example 4.twbx
+6. Parameters-Example 5.twbx
+7. Data Source : Sample Superstore.xls
