@@ -1,0 +1,7 @@
+Example 1 : Divide United States into 3 different territories using the selection tools and Visual Grouping concept.
+            Display the profit of each territory as a Label bu creating a group using (Country,State).
+            
+This Repository contains following files "
+1. Visual Grouping.twbx
+2. Summary of the Repository
+3. Data Source : Sample Superstore.xls
