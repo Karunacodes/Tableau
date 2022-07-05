@@ -1,0 +1,17 @@
+Highlights of the Repository :
+
+Create an interactive dashboard to display the Sales of Superstore. Use Filter, Highlight and URL Actions.
+
+Steps to be performed:
+a)	Create a Map showing the “Sales” of all the states present in Sample Superstore Data Source.
+b)	Colour the states by the region they belong to.
+c)	Create a detailed Text table showing all the measure values.
+d)	Create a Pie Chart showing the Sales of Super store across different regions.
+e)	Create a URL action to show the Wiki page of the states that are selected (Run the Action from “Menu” option).
+f)	Use highlight and filter actions to analyse the sales.
+g)	Display the Top 5 Customers for each state on the”Tooltip” when the state mark is selected.
+
+This Repository contains following files:
+1. Dashboard & Stories.twbx
+2. Summary of the Repository
+3. Data Source : Sample Superstore.xls
