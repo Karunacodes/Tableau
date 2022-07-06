@@ -1,0 +1,7 @@
+Example : The “Names.xlsx” input data source provided contains the names of a few customers, however, the names are not in proper case.
+           Using string calculations bring all the names to “Proper Case”.
+         
+This Repository contains following files :
+1. String Calculations.twbx
+2. Summary of the Repository
+3. Names.xlsx
