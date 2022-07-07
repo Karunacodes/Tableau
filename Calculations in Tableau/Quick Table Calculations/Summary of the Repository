@@ -1,1 +1,8 @@
-File
+Example : Create a view to display the Sales, Running Sum of Sales and Moving Average of Sales of Superstore 
+          (use 45 days before and 45 days after including the current day as the interval for moving average) for different categories.
+          
+          
+This Repository contains following files :
+1. Quick Table Calculations.twbx
+2. Summary of the Repository
+3. Data Source : Sample Superstore.xls
