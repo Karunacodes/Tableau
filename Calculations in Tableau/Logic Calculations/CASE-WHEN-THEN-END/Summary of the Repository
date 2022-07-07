@@ -1,0 +1,15 @@
+Example : (CASE-WHEN-THEN-END): The “Products.xls” data source contains the product id’s of different products sold by superstore and their Sales information. 
+                                The customers are not able to identify the type of the product due to the codes used. Create a report with the list of product id’s
+                                and mention the full form of the codes used.
+                                Codes are as follows :
+                                AP - Appliances
+                                AR - Art
+                                BI - Binders
+                                EN - Envelopes
+                                PA - Paper
+                                ST - Storage
+                                
+This Repository contains following files :
+1. Logic Calculations.twbx
+2. Summary of the Repository
+3. Data Source : Products.xls
