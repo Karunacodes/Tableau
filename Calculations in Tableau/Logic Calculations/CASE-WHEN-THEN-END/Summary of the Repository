@@ -10,6 +10,6 @@ Example : (CASE-WHEN-THEN-END): The “Products.xls” data source contains the 
                                 ST - Storage
                                 
 This Repository contains following files :
-1. Logic Calculations.twbx
+1. Logic Calculations_CASE-WHEN-THEN-END.twbx
 2. Summary of the Repository
 3. Data Source : Products.xls
