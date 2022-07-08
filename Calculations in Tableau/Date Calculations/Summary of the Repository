@@ -1,7 +1,11 @@
-Example : In the Names.xlsx data source, the “Residing Since” column contains the date since the customer has been residing in the given city.
+Example 1 : In the Names.xlsx data source, the “Residing Since” column contains the date since the customer has been residing in the given city.
           However, Tableau could not interpret the Date field properly. It is being treated as a “Numeric” field, convert “Residing Since” into a Date field.
 
+Example 2 : The Shipping Manager of Superstore needs a report of the “Average number of days” taken to ship an order placed, for different states by different ship modes.
+
 This Repository contains following files :
-1. Date Calulations.twbx
-2. Summary of the Repository
-3. Data Source : Names.xlsx
+1. Date Calculations_Example1.twbx
+2. Date Calculations_Example2.twbx
+3. Summary of the Repository
+3. Data Source : Names.xlsx ( for Example 1)
+4. Data Source : Sample Superstore.xlsx ( for Example 2)
