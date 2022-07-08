@@ -1,0 +1,7 @@
+Example : In the Names.xlsx data source, the “Residing Since” column contains the date since the customer has been residing in the given city.
+          However, Tableau could not interpret the Date field properly. It is being treated as a “Numeric” field, convert “Residing Since” into a Date field.
+
+This Repository contains following files :
+1. Date Calulations.twbx
+2. Summary of the Repository
+3. Data Source : Names.xlsx
