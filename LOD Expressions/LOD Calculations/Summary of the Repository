@@ -1,3 +1,14 @@
-a)	In business, cohort analysis is most often used to study customer retention. A cohort is a group of customers or subjects that have a common characteristic. 
-Determine the Cohorts by the date at which customer made their first transaction at superstore (The minimum order date per customer will give the first purchase date). 
-Create a chart showing the Sales of Super store over different years and identify whether longer tenured customers make a larger contribution to sales? 
+In business, cohort analysis is most often used to study customer retention. A cohort is a group of customers or subjects that have a common characteristic. 
+
+Example 1 : Determine the Cohorts by the date at which customer made their first transaction at superstore (The minimum order date per customer will give 
+          the first purchase date). 
+          Create a chart showing the Sales of Super store over different years and identify whether longer tenured customers make a larger contribution to sales? 
+
+Example 2 : Display the number of customers in each year from different Cohorts.
+
+
+Example 3 : LOD for Percent of Total (Absolute): This is the Sales of Superstore for different Categories.
+            Create a view to Display the Sales as Percentage. The Percentage value should be the Absolute value (not relative), 
+            it should not change even when the categories in the chart are filtered out.
+            
+Example 4 : LOD Sales corresponding to Maximum Profit: Create a chart to display the Maximum profit from all the customers. Show the corresponding Sales value.
